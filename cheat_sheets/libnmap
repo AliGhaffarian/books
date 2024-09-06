@@ -1,0 +1,2 @@
+to get info for a host need to .host[index] the parsed report
+then all attributes are there despite not being shown like .mac
